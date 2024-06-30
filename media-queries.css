@@ -36,6 +36,8 @@
         margin-right: 20rem;
     }
 
+
+
   }
   
   /*🔴  xl 🔴 */
@@ -141,9 +143,42 @@
     
   }
   
-  /*🔴  xs 🔴 */
+  /*🔴  xs 🔴 <375*/
   @media (max-width: 475px) {
     .container {
       width: 100%;
     }
+
+    .local-marketer-text {
+      font-size: 0.7rem; /* Adjusted size for smaller screens */
+      line-height: 0.8rem; 
+      
+  }
+
+  .local-biz-container p {
+      font-size: 1.3rem; /* Adjusted size for smaller screens */
+      line-height: 2.0rem;
+  }
+
+  .local-biz-container p span {
+      font-size: 1.3rem; /* Adjusted size for smaller screens */
+      line-height: 2.0rem;
+  }
+
+  .win-new-container p {
+      font-size: 0.5rem; /* Adjusted size for smaller screens 1.0 0.5 */
+      line-height: 0.3rem;
+  }
+
+  .win-new-container p span {
+      font-size: 0.5rem; /* Adjusted size for smaller screens */
+      line-height: 0.3rem;
+  }
+
+  .desktop-image-container img{
+      /* margin-left: 20rem;
+      margin-right: 20rem; */
+      width: 20rem;
+  }
+ 
   }
