@@ -44,30 +44,6 @@
       max-width: 1024px;
     }
 
-    .local-marketer-text {
-        font-size: 1.5rem; /* Adjusted size for smaller screens */
-        line-height: 2rem; 
-    }
-
-    .local-biz-container p {
-        font-size: 3rem; /* Adjusted size for smaller screens */
-        line-height: 3.5rem;
-    }
-
-    .local-biz-container p span {
-        font-size: 3rem; /* Adjusted size for smaller screens */
-        line-height: 3.5rem;
-    }
-
-    .win-new-container p {
-        font-size: 1.25rem; /* Adjusted size for smaller screens */
-        line-height: 1.5rem;
-    }
-
-    .win-new-container p span {
-        font-size: 1.25rem; /* Adjusted size for smaller screens */
-        line-height: 1.5rem;
-    }
 
     .desktop-image-container img{
         /* margin-left: 20rem;
@@ -83,6 +59,38 @@
     .container {
       max-width: 768px;
     }
+
+    .local-marketer-text {
+        font-size: 1.0rem; /* Adjusted size for smaller screens */
+        line-height: 1.5rem; 
+    }
+
+    .local-biz-container p {
+        font-size: 2.5rem; /* Adjusted size for smaller screens */
+        line-height: 3.0rem;
+    }
+
+    .local-biz-container p span {
+        font-size: 2.5rem; /* Adjusted size for smaller screens */
+        line-height: 3.0rem;
+    }
+
+    .win-new-container p {
+        font-size: 1.0rem; /* Adjusted size for smaller screens */
+        line-height: 0.5rem;
+    }
+
+    .win-new-container p span {
+        font-size: 1.0rem; /* Adjusted size for smaller screens */
+        line-height: 0.5rem;
+    }
+
+    .desktop-image-container img{
+        /* margin-left: 20rem;
+        margin-right: 20rem; */
+        width: 31.25rem;
+    }
+
   }
   
   /*🔴  md 🔴 */
@@ -91,32 +99,7 @@
       max-width: 640px;
     }
 
-    .local-marketer-text {
-        font-size: 1.5rem; /* Adjusted size for smaller screens */
-        line-height: 2rem;
-        color: red ;
-    }
-
-    .local-biz-container p {
-        font-size: 3rem; /* Adjusted size for smaller screens */
-        line-height: 3.5rem;
-    }
-
-    .local-biz-container p span {
-        font-size: 3rem; /* Adjusted size for smaller screens */
-        line-height: 3.5rem;
-    }
-
-    .win-new-container p {
-        font-size: 1.25rem; /* Adjusted size for smaller screens */
-        line-height: 1.5rem;
-    }
-
-    .win-new-container p span {
-        font-size: 1.25rem; /* Adjusted size for smaller screens */
-        line-height: 1.5rem;
-    }
-
+   
   }
   
   /*🔴  sm 🔴 */
@@ -125,32 +108,7 @@
       max-width: 475px;
     }
 
-    .local-marketer-text {
-        font-size: 1.5rem; /* Adjusted size for smaller screens */
-        line-height: 2rem;
-        color: green ;
-    }
-
-    .local-biz-container p {
-        font-size: 3rem; /* Adjusted size for smaller screens */
-        line-height: 3.5rem;
-    }
-
-    .local-biz-container p span {
-        font-size: 3rem; /* Adjusted size for smaller screens */
-        line-height: 3.5rem;
-    }
-
-    .win-new-container p {
-        font-size: 1.25rem; /* Adjusted size for smaller screens */
-        line-height: 1.5rem;
-    }
-
-    .win-new-container p span {
-        font-size: 1.25rem; /* Adjusted size for smaller screens */
-        line-height: 1.5rem;
-    }
-
+    
   }
   
   /*🔴  xs 🔴 */
