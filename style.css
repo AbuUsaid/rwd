@@ -80,6 +80,8 @@ body, html {
 .win-new-container {
     text-align: center;
     color: #FFFFFF;
+    margin-bottom: 2rem; /* Add spacing */
+
 }
 
 .win-new-container p {
@@ -98,32 +100,14 @@ body, html {
     text-decoration-color: #FFEE58;
 }
 
+.desktop-image-container{
+  
+}
+
 /* ------ */
 
 
 
 
 
-/*----------------------*/
-/* Media Queries */
-@media (min-width: 769px) {
-    /* Desktop Styles */
-    .image-section img {
-        width: 100%;
-    }
-}
-
-@media (max-width: 768px) and (min-width: 481px) {
-    /* Tablet Styles */
-    .image-section img {
-        width: 100%;
-    }
-}
-
-@media (max-width: 480px) {
-    /* Mobile Styles */
-    .image-section img {
-        width: 100%;
-    }
-}
 
