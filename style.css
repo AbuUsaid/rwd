@@ -10,6 +10,16 @@ body, html {
     font-size: 16px;
 }
 
+/* desktop utility class */
+.container {
+    max-width: 1536px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+
 .background-container {
     background-image: url('./assets/RectangleBlue.png');
     background-size: cover;
