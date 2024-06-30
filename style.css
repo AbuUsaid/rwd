@@ -36,6 +36,8 @@ body, html {
     background-color: #FFDB5E;
     padding: 0.5rem 1rem; /* Adjust padding as needed */
     text-align: center; /* Center the text inside the yellow background */
+    margin-bottom: 2rem; /* Add spacing between logo and yellow background */
+
 }
 
 .local-marketer-text {
@@ -46,7 +48,29 @@ body, html {
     color: #33256C;
 }
 
+.local-biz-container {
+    text-align: center;
+    color: #FFFFFF;
+}
 
+.local-biz-container p {
+    font-family: 'Gilroy-Heavy', sans-serif;
+    font-size: 4.56rem; /* 73px */
+    font-weight: 700;
+    line-height: 5.125rem; /* 82px */
+    color: #FFFFFF;
+}
+
+.local-biz-container p span {
+    font-family: 'Gilroy-HeavyItalic', sans-serif;
+    font-size: 4.56rem; /* 73px */
+    font-style: italic;
+    font-weight: 700;
+    line-height: 5.125rem; /* 82px */
+    color: #FF5811;
+    text-decoration: underline;
+    text-decoration-color: #FF5811;
+}
 
 
 
