@@ -1,0 +1,57 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.background-container {
+    background-image: url('./assets/RectangleBlue.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    position: relative;
+}
+.logo-container img{
+    width: 13.44rem; /* 247.05px */
+    height: 1.74rem; /* 27.86px */
+    margin-top: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------*/
+/* Media Queries */
+@media (min-width: 769px) {
+    /* Desktop Styles */
+    .image-section img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) and (min-width: 481px) {
+    /* Tablet Styles */
+    .image-section img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    /* Mobile Styles */
+    .image-section img {
+        width: 100%;
+    }
+}
+
