@@ -60,6 +60,33 @@
     display:block;
    }
    
+   /* last section */
+
+   .last-section-container{
+    flex-direction: column;
+   }
+
+   .last-left-section{
+    width: 35rem;
+    height: 30rem;
+   }
+
+   .last-left-section p{
+    font-size: 1.10rem; /* 20px */
+    font-weight: 400;
+    line-height: 1.0rem; 
+   }
+
+
+   .last-right-section{
+    
+   }
+
+   .last-right-section img{
+    width: 35rem;
+    height: 30rem;
+    margin-left: 5.9rem;
+   }
 
   }
   
