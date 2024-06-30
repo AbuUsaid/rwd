@@ -99,6 +99,36 @@
       max-width: 640px;
     }
 
+    .local-marketer-text {
+        font-size: 1.0rem; /* Adjusted size for smaller screens */
+        line-height: 1.5rem; 
+    }
+
+    .local-biz-container p {
+        font-size: 1.5rem; /* Adjusted size for smaller screens */
+        line-height: 2.0rem;
+    }
+
+    .local-biz-container p span {
+        font-size: 1.5rem; /* Adjusted size for smaller screens */
+        line-height: 2.0rem;
+    }
+
+    .win-new-container p {
+        font-size: 0.7rem; /* Adjusted size for smaller screens 1.0 0.5 */
+        line-height: 0.5rem;
+    }
+
+    .win-new-container p span {
+        font-size: 0.7rem; /* Adjusted size for smaller screens */
+        line-height: 0.5rem;
+    }
+
+    .desktop-image-container img{
+        /* margin-left: 20rem;
+        margin-right: 20rem; */
+        width: 25rem;
+    }
    
   }
   
