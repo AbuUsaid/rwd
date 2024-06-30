@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body, html {
+    height: 100%;
+    font-size: 16px;
+}
 
 .background-container {
     background-image: url('./assets/RectangleBlue.png');
@@ -12,15 +16,36 @@
     background-position: center;
     height: 100vh; /* Full viewport height */
     display: flex;
-    justify-content: center;
-    align-items: top;
+    flex-direction: column; /* Stack elements vertically */
+    justify-content: top; /* Center elements vertically */
+    align-items: center; /* Center elements horizontally */
     position: relative;
 }
-.logo-container img{
-    width: 13.44rem; /* 247.05px */
-    height: 1.74rem; /* 27.86px */
+
+.logo-container {
     margin-top: 3rem;
+    margin-bottom: 2rem; /* Add spacing between logo and yellow background */
 }
+
+.logo-container img {
+    width: 15.44rem; /* 247.05px */
+    height: 1.74rem; /* 27.86px */
+}
+
+.yellow-background-container {
+    background-color: #FFDB5E;
+    padding: 0.5rem 1rem; /* Adjust padding as needed */
+    text-align: center; /* Center the text inside the yellow background */
+}
+
+.local-marketer-text {
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 2.06rem; /* 33px */
+    font-weight: 700;
+    line-height: 2.55rem; /* 40.85px */
+    color: #33256C;
+}
+
 
 
 
