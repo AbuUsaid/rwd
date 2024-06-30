@@ -30,6 +30,7 @@ body, html {
     justify-content: top; /* Center elements vertically */
     align-items: center; /* Center elements horizontally */
     position: relative;
+
 }
 
 .logo-container {
@@ -114,7 +115,27 @@ body, html {
   
 }
 
-/* ------ */
+/* ---section two screenshots--- */
+
+.screenshot-container{
+    margin-top: 10rem;
+}
+
+.all-screenshots-container{
+   width: 30rem;
+   margin-left: 9rem;
+   margin-right:auto ;
+    
+}
+
+/* hide seperate screenshots in full width */
+.left-screenshot-container{
+ display: none;
+}
+
+.right-screenshot-container{
+ display:none;
+}
 
 
 

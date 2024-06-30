@@ -37,6 +37,11 @@
     }
 
 
+    .all-screenshots-container{
+      width: 30rem;
+      display: none;
+   }
+
 
   }
   
