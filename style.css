@@ -138,7 +138,41 @@ body, html {
 }
 
 
+/* Jackpot Text Styles */
+.jackpot-text {
+    text-align: center;
+    color: #33256C;
+    margin-top: 4rem; /* Adjust margin as needed */
+}
 
+.jackpot-text p {
+    font-family: 'Gilroy-SemiBold', sans-serif;
+    font-size: 3.2rem; /* 55px */
+    font-weight: 400;
+    line-height: 3.4rem; /* 60px */
+    color: #33256C;
+}
 
+.jackpot-text p span {
+    font-family: 'Gilroy-SemiBold', sans-serif;
+    font-size: 3.2rem; /* 55px */
+    font-weight: 400;
+    line-height: 3.4rem; /* 60px */
+    color: #359586;
+    text-align: center;
+}
 
+/* Stats Text Styles */
+.stats-text {
+    text-align: center;
+    margin-top: 1rem; /* Adjust margin as needed */
+}
+
+.stats-text p {
+    font-family: 'Gilroy-SemiBold', sans-serif;
+    font-size: 0.8rem; /* 18px */
+    font-weight: 700;
+    line-height: 3.3rem; /* 60px */
+    color: #33256C;
+}
 
