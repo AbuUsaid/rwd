@@ -76,6 +76,24 @@
         width: 31.25rem;
     }
 
+    .jackpot-text p {
+      font-family: 'Gilroy-SemiBold', sans-serif;
+      font-size: 2.9rem; /* 55px */
+      font-weight: 400;
+      line-height: 3.1rem; /* 60px */
+      color: #33256C;
+  }
+  
+  .jackpot-text p span {
+      font-family: 'Gilroy-SemiBold', sans-serif;
+      font-size: 2.9rem; /* 55px */
+      font-weight: 400;
+      line-height: 3.1rem; /* 60px */
+      color: #359586;
+      text-align: center;
+  }
+  
+  
 
   }
   
@@ -116,6 +134,22 @@
         width: 31.25rem;
     }
 
+    .jackpot-text p {
+      font-family: 'Gilroy-SemiBold', sans-serif;
+      font-size: 2.4rem; /* 55px */
+      font-weight: 400;
+      line-height: 2.6rem; /* 60px */
+      color: #33256C;
+  }
+  
+  .jackpot-text p span {
+      font-family: 'Gilroy-SemiBold', sans-serif;
+      font-size: 2.4rem; /* 55px */
+      font-weight: 400;
+      line-height: 2.6rem; /* 60px */
+      color: #359586;
+      text-align: center;
+  }
     
 
   }
@@ -176,6 +210,23 @@
       width: 25rem;
     }
    
+    
+    .jackpot-text p {
+      font-family: 'Gilroy-SemiBold', sans-serif;
+      font-size: 1.8rem; /* 55px */
+      font-weight: 400;
+      line-height: 2.0rem; /* 60px */
+      color: #33256C;
+  }
+  
+  .jackpot-text p span {
+      font-family: 'Gilroy-SemiBold', sans-serif;
+      font-size: 1.8rem; /* 55px */
+      font-weight: 400;
+      line-height: 2.0rem; /* 60px */
+      color: #359586;
+      text-align: center;
+  }
 
   }
   
