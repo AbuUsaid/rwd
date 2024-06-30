@@ -111,9 +111,7 @@ body, html {
     text-decoration-color: #FFEE58;
 }
 
-.desktop-image-container{
-  
-}
+
 
 /* ---section two screenshots--- */
 
@@ -177,3 +175,46 @@ body, html {
     color: #33256C;
 }
 
+/*last section*/
+
+.last-section-container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last-left-section{
+    background-color: #FF5811;
+    width: 47rem;
+    height: 42rem;
+    /* top: 328rem; */
+
+
+}
+
+.last-left-section {
+    margin-top: 2rem; /* Adjust margin as needed */
+}
+
+.last-left-section p {
+    font-family: 'Gilroy-SemiBold', sans-serif;
+    font-size: 1.20rem; /* 20px */
+    font-weight: 400;
+    line-height: 1.5rem; /* 39px */
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 1rem; /* Add spacing between paragraphs */
+    padding: 2rem;
+}
+
+.last-right-section{
+    /* padding-top: 0.4rem; */
+    width: 47rem;
+    height: 42rem;
+    /* top: 328rem; */
+}
+
+.last-right-section img{
+    padding-top: 1rem;
+}
