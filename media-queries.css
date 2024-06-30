@@ -36,12 +36,30 @@
         margin-right: 20rem;
     }
 
-
+/* hide all screenshot container in low width, unhide seperate screenshots */
     .all-screenshots-container{
       width: 30rem;
       display: none;
    }
 
+   .screenshot-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+   }
+
+   .left-screenshot-container{
+     display: flex;
+     flex-direction: column;
+     gap: 3rem;
+
+   }
+   
+   .right-screenshot-container{
+    display:block;
+   }
+   
 
   }
   
