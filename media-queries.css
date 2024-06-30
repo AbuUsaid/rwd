@@ -78,9 +78,7 @@
    }
 
 
-   .last-right-section{
-    
-   }
+   
 
    .last-right-section img{
     width: 35rem;
@@ -178,6 +176,8 @@
       text-align: center;
   }
     
+  
+
 
   }
   
@@ -255,6 +255,30 @@
       text-align: center;
   }
 
+  /* last section */
+
+  
+
+  .last-left-section{
+    width: 30rem;
+    height: 25rem;
+   }
+
+   .last-left-section p{
+    font-size: 0.7rem; 
+    font-weight: 400;
+    line-height: 1.0rem; 
+   }
+
+
+   
+
+   .last-right-section img{
+    width: 30rem;
+    height: 25rem;
+    margin-left: 8.5rem;
+   }
+
   }
   
   /*🔴  sm 🔴 */
@@ -263,6 +287,19 @@
       max-width: 475px;
     }
 
+    /* last section */
+
+  
+
+  .last-left-section{
+    
+    margin-left: 8.5rem;
+
+   }
+
+   .last-right-section img{
+    margin-left: 12.7rem;
+   }
     
   }
   
